@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Photo_choice">
+        <item>Lapins</item>
+        <item>Ours en peluche</item>
+    </string-array>
+
+
+</resources>

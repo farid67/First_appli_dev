@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_appearance_array">
+        <item>@string/black</item>
+        <item>@string/white</item>
+        <item>@string/custom</item>
+    </string-array>
+
+</resources>

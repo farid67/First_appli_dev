@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Add your message here</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="Main_action_bar_title">Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="deleteMessage">Delete message</string>
+    <string name="theme_light">Theme Light</string>
+    <string name="theme_dark">Theme Dark</string>
+    <string name="evr_ok">Everything\'s ok for the moment </string>
+
+    <string name="showActionBar">Show action bar</string>
+    <string name="hideActionBar">Hide action bar</string>
+
+    <string name="hide_frag">Hide frag</string>
+    <string name="show_frag">Show frag</string>
+
+    <string name="show_images">Show Images?</string>
+    <string name="title_activity_show_images">ShowImagesActivity</string>
+    <string name="content_desc">Some images</string>
+
+
+    <string name="pref_appearance_title">General Appearance</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="custom">Custom Theme(black and blue)</string>
+    <string name="general_pref_sum">Set the general theme of the application</string>
+
+
+
+</resources>

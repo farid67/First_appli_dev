@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Mon Application</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="edit_message">Ajouter votre message ici</string>
+    <string name="button_send">Envoyer</string>
+    <string name="title_activity_main">Activité principale</string>
+    <string name="title_activity_display_message">Affichage message</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="Main_action_bar_title">Application</string>
+
+    <string name="hello_world">Bonjour!</string>
+    <string name="deleteMessage">Supprimer le message</string>
+    <string name="evr_ok">Tout est ok pour le moment</string>
+
+    <string name="showActionBar">Afficher la barre d\'actions</string>
+    <string name="hideActionBar">Enlever la barre d\'actions</string>
+    <string name="hide_frag">Enlever le fragment</string>
+    <string name="show_frag">Afficher le fragment</string>
+
+    <string name="show_images">Afficher les images</string>
+    <string name="content_desc">Quelques images</string>
+
+    <string name="pref_appearance_title">Apparence générale</string>
+    <string name="black">Sombre</string>
+    <string name="white">Clair</string>
+    <string name="custom">Thème de base</string>
+    <string name="general_pref_sum">Choix du thème général pour l\'application</string>
+
+
+</resources>
